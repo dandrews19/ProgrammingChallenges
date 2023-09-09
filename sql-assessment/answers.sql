@@ -15,6 +15,7 @@ GROUP BY state
 ORDER BY total_revenue DESC
 LIMIT 3;
 
+-- The third best state, Ohio, generated $37,577 in revenue
 
 -- 3.
 
